@@ -1,0 +1,18 @@
+{
+  "name": "wanote",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "firebase": "^9.23.0",
+    "react": "18.1.0",
+    "react-dom": "18.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
+```
